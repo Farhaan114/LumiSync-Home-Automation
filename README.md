@@ -16,13 +16,13 @@ This project is a web-based IoT lighting control system that lets users control 
 - Voice Integration: Use Alexa to control lights via Arduino Cloud, with messages sent to the MQTT broker for seamless IoT communication.
 This setup showcases how to integrate Alexa with IoT systems for efficient and flexible smart home lighting control.
 
-## Prototype Setup
-- ![WhatsApp Image 2024-11-09 at 21 36 33_d99c8f70](https://github.com/user-attachments/assets/8c88d2dc-f9ea-410c-aaec-7f344670df99)
-
 ## Web App 
 - Login page ![WhatsApp Image 2024-11-09 at 21 35 43_ca651da9](https://github.com/user-attachments/assets/70460596-bce6-4e0d-9541-363998839739)
 - Light Control Dashboard ![WhatsApp Image 2024-11-09 at 21 35 43_6ecf5f4d](https://github.com/user-attachments/assets/34b88764-2d72-455b-bf30-02e2568d9dfe)
 - Light Scheduling ![WhatsApp Image 2024-11-09 at 21 35 43_5e0572c6](https://github.com/user-attachments/assets/f2d2aa58-7777-4a9c-a478-6d270159387c)
+
+## Prototype Setup
+- ![WhatsApp Image 2024-11-09 at 21 36 33_d99c8f70](https://github.com/user-attachments/assets/8c88d2dc-f9ea-410c-aaec-7f344670df99)
 
 ## Future Scope
 ### **1. Enhanced Customization and Flexibility :**
